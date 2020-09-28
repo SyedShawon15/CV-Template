@@ -1,0 +1,3404 @@
+@media only screen and (max-width:1280px) {
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd {
+		overflow:hidden;
+	}
+	.navbar .nav-links{
+		width:53%;
+		height:100%;
+		left:125px;
+		justify-content: space-between;
+	}
+	.navbar .nav-links li a{
+		font-size:12px;
+	}
+	.sec2nd .intoduce-area .images{
+		width:100%;
+		padding-top:173px;
+	}
+}
+@media only screen and (max-width:1199px) {
+	.elementor-left .para1, .para2{
+		font-size:12px!important;
+	}
+	.elementor-right p{
+		position:relative;
+		line-height:25px!important;
+		font-size:12px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width:100%;
+		padding-top:190px!important;
+	}
+}
+@media only screen and (min-width:1025px) and (max-width:1250px) {
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec2nd .intoduce-area .images{
+		width:100%;
+		padding-top:175px;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0px;
+	}
+	.sec2nd {
+		overflow:hidden;
+	}
+	.navbar .nav-links{
+		width:53%;
+		height:100%;
+		left:125px;
+		justify-content: space-between;
+	}
+	.navbar .nav-links li a{
+		font-size:12px;
+	}
+	.service{
+		width:100%;
+		height:855px;
+	}
+}
+@media only screen and (min-width:993px) and (max-width:1024px) {
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd {
+		overflow:hidden;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.navbar .nav-links{
+		width:53%;
+		height:100%;
+		left:125px;
+		justify-content: space-between;
+	}
+	.navbar .nav-links li a{
+		font-size:12px;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:7px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.service{
+		width:100%;
+		height:855px;
+	}
+	.portfolio .portfolio-site {
+		width: 100%;
+		height: 750px;
+	}
+}
+@media only screen and (max-width:992px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd {
+		overflow:hidden;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-130px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:5px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.service{
+		width:100%;
+		height:855px;
+	}
+}
+@keyframes navLinksFade {
+	form{
+		opacity: 0;
+		transform: translateX(50px)!important;
+	}
+	to{
+		opacity: 1;
+		transform: translateX(0px)!important;
+	 }
+}
+.toggle .lineone{
+	transform: rotate(-45deg) translate(-5px, 6px);
+}
+.toggle .linetwo{
+	opacity: 0;
+}
+.toggle .linethree{
+	transform: rotate(45deg)translate(-5px, -6px);
+}
+@media only screen and (min-width:901px) and (max-width:991px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec1th .secactive .my-images h1{
+		width:350px;
+		font-size:50px;
+	}
+	.elementor-left h1{
+		width:340px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:12px!important;
+	}
+	.elementor-right p{
+		position:relative;
+		top:40px;
+		line-height:25px!important;
+		font-size:12px!important;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 156px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd {
+		overflow:hidden;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.sec2nd .sec2nd-elementor .row {
+		padding-top:100px!important;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-130px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 665px!important;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:10px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.service{
+		position:relative!important;
+		height: 1660px!important;
+		padding-top: 255px!important;
+	}
+	.skills {
+		width: 100%!important;
+		height: 1290px!important;
+		background: #fff!important;
+		padding-top: 255px!important;
+	}
+	.portfolio{
+		width: 100%!important;
+		height: 2275px!important;
+		padding-top: 255px!important;		
+	}
+	.portfolio .portfolio-site{
+		width:100%;
+		height:1670px;
+	}
+	.owl-item {
+        position: relative;
+		left:60px!important;
+    }
+    .owl-stage-outer {
+        height: 415px!important;
+    }
+	.justify-content-between{
+		position:relative;
+		left:42px;
+		bottom:40px;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+}
+@media only screen and (min-width:661px) and (max-width:900px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec1th .secactive .my-images h1{
+		width:350px;
+		font-size:50px;
+	}
+	.elementor-left h1{
+		width:340px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:12px!important;
+	}
+	.elementor-right p{
+		position:relative;
+		top:40px;
+		line-height:25px!important;
+		font-size:12px!important;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd {
+		overflow:hidden;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 156px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.sec2nd .sec2nd-elementor .row {
+		padding-top:100px!important;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-130px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 665px!important;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:10px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.service{
+		position:relative!important;
+		height: 1660px!important;
+		padding-top: 255px!important;
+	}
+	.skills {
+		width: 100%!important;
+		height: 1290px!important;
+		background: #fff!important;
+		padding-top: 255px!important;
+	}
+	.portfolio{
+		width: 100%!important;
+		height: 2275px!important;
+		padding-top: 255px!important;		
+	}
+	.portfolio .portfolio-site{
+		width:100%;
+		height:1670px;
+	}
+	.owl-item {
+        position: relative;
+		left:60px!important;
+    }
+    .owl-stage-outer {
+        height: 415px!important;
+    }
+	.justify-content-between{
+		position:relative;
+		left:42px;
+		bottom:40px;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+}
+@media only screen and (max-width:899px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd {
+		overflow:hidden;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-150px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:10px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+}
+@media only screen and (max-width:767px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec2nd .elementor-left h1{
+		width:530px!important;
+		margin:0;
+	}
+	.sec2nd .elementor-right h1{
+		margin:0;
+	}
+	.elementor-left .para1{
+		position:relative!important;
+		padding-top:20px;
+		margin:0;
+	}
+	.elementor-left .para2{
+		margin:0;
+		padding-bottom:20px;
+	}
+	.sec2nd .elementor-right p{
+		position:relative;
+		top:0;
+		padding-top:20px;
+		line-height:20px!important;
+		margin:0;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+		padding-top:0;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-175px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:10px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.sec2nd{
+		width:100%!important;
+		height:1725px!important;
+		overflow:hidden;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 300px!important;
+	}
+	.para2{
+		font-size:14px!important;
+	}
+	.sec2nd .img-right{
+		position:relative!important;
+		padding-top:20px;
+		left:25px;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1260px!important;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:955px!important;
+	}
+	.service{
+		position:relative!important;
+		height: 1650px!important;
+		padding-top: 245px!important;
+	}
+	.skills {
+		width: 100%!important;
+		height: 1825px!important;
+		background: #fff!important;
+		padding-top: 245px!important;
+	}
+	.portfolio{
+		width: 100%!important;
+		height: 2260px!important;
+		padding-top: 245px!important;		
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:-62px;
+	}
+	.justify-content-between{
+		left:0!important;
+	}
+}
+@media only screen and (min-width:651px) and (max-width:660px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .my-images h1{
+		width:350px;
+		font-size:50px;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:980px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1760px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1285px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-190px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:10px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+}
+
+@media only screen and (min-width:601px) and (max-width:650px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		width:22px;
+	}
+	.navbar-brand{
+		left:100px;
+		font-size:22px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .my-images h1{
+		width:350px;
+		font-size:50px;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:980px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1760px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1285px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-190px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:10px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+}
+@media only screen and (min-width:591px) and (max-width:600px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:10px;
+		width:22px;
+	}
+	.navbar-brand{
+		left:90px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .my-images h1{
+		width:350px;
+		font-size:50px;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:980px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1760px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1285px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-210px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:520px!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:10px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.contact-padding {
+		padding-top: 75px;
+	}
+}
+@media only screen and (min-width:566px) and (max-width:590px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:15px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:80px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .my-images h1{
+		width:350px;
+		font-size:50px;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:980px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1760px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1285px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative!important;
+		bottom:150px;
+		left:-190px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+}
+@media only screen and (min-width:546px) and (max-width:565px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .my-images h1{
+		width:350px;
+		font-size:50px;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.elementor-left .para1, .para2{
+		width:475px!important;
+	}
+	.sec2nd .elementor-right p{
+		width:475px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:940px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1680px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1255px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-220px!important;
+		opacity: 0;
+	}
+	.sec2nd .elementor-left h1{
+		font-size: 30px!important;
+		width:400px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width:450px!important;
+		font-size: 30px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+	}
+	.nav-burger{
+		display: block!important;
+		left:480px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+}
+
+@media only screen and (min-width:531px) and (max-width:545px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:50px;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:480px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:480px!important;
+	}
+	.des{
+		width:470px!important;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:940px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1680px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1250px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-220px!important;
+		opacity: 0;
+	}
+	.sec2nd .elementor-left h1{
+		font-size: 30px!important;
+		width:400px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width:450px!important;
+		font-size: 30px!important;
+	}
+	.nav-burger{
+		display: block!important;
+		left:470px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+}
+@media only screen and (min-width:511px) and (max-width:530px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:50px;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:465px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 305px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:460px!important;
+	}
+	.des{
+		width:450px!important;
+	}
+    .sec1th .secactive .my-images{
+		position:relative;
+		left:35px;
+		z-index:5;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:940px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1680px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1250px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-220px!important;
+		opacity: 0;
+	}
+	.sec2nd .elementor-left h1{
+		font-size: 30px!important;
+		width:400px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width:450px!important;
+		font-size: 30px!important;
+	}
+	.nav-burger{
+		display: block!important;
+		left:460px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+}
+@media only screen and (min-width:501px) and (max-width:510px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:50px;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 305px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:465px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:460px!important;
+	}
+	.des{
+		width:440px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:950px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1710px!important;
+		overflow:hidden;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1270px!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-220px!important;
+		opacity: 0;
+	}
+	.sec2nd .elementor-left h1{
+		font-size: 30px!important;
+		width:400px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width:450px!important;
+		font-size: 30px!important;
+	}
+	.nav-burger{
+		display: block!important;
+		left:435px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:12px;
+	}
+}
+@media only screen and (min-width:481px) and (max-width:500px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:50px;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 305px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:450px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:450px!important;
+	}
+	.des{
+		width:420px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:930px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1690px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 430px!important;
+		font-size: 30px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 430px!important;
+		font-size: 30px!important;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1250px!important;
+	}
+	.intoduce-elementor .heading {
+		font-size: 30px;
+	}
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 30px;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 30px;
+	}
+	.skills .process-title h1 {
+		font-size: 30px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 30px;
+	}
+	.team .team-title h1 {
+		font-size: 30px;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-230px!important;
+		opacity: 0;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:12px;
+	}
+}
+@media only screen and (min-width:461px) and (max-width:480px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:50px;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 305px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:400px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:400px!important;
+	}
+	.des{
+		width:410px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:930px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1690px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 430px!important;
+		font-size: 30px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 430px!important;
+		font-size: 30px!important;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1250px!important;
+	}
+	.intoduce-elementor .heading {
+		font-size: 30px;
+	}
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 30px;
+	}
+	.skills{
+		width:100%!important;
+		height:1790px!important;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 30px;
+	}
+	.skills .process-title h1 {
+		font-size: 30px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 30px;
+	}
+	.team .team-title h1 {
+		font-size: 30px;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-235px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:400px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:12px;
+	}
+	.working-concept .fixed-padding p{
+		font-size:14px!important;
+	}
+	.contact-padding {
+		padding-top: 80px;
+	}
+}
+@media only screen and (min-width:431px) and (max-width:460px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .images-btn{
+		width:370px!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:40px;
+	}
+	.sec1th .secactive .my-images p{
+		font-size:16px!important;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 312px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:400px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:400px!important;
+	}
+	.des{
+		width:400px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:930px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1665px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 370px!important;
+		font-size: 25px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 370px!important;
+		font-size: 25px!important;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1240px!important;
+	}
+	.intoduce-elementor .heading {
+		font-size: 30px;
+	}
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 30px;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 30px;
+	}
+	.skills .process-title h1 {
+		font-size: 30px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 30px;
+	}
+	.team .team-title h1 {
+		font-size: 30px;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-230px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:385px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:12px;
+	}
+	.working-concept .fixed-padding p{
+		font-size:14px!important;
+	}
+}
+@media only screen and (min-width:421px) and (max-width:430px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .images-btn{
+		width:370px!important;
+	}
+	.sec1th .secactive .btn{
+		padding:25px 30px!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:40px;
+	}
+	.sec1th .secactive .my-images p{
+		font-size:16px!important;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 312px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:380px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:370px!important;
+		line-height:16px!important;
+	}
+	.des{
+		width:340px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:930px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1665px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 370px!important;
+		font-size: 25px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 370px!important;
+		font-size: 25px!important;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1240px!important;
+	}
+	.intoduce-elementor .heading {
+		font-size: 30px;
+	}
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service{
+		width:100%!important;
+		height:1710px!important;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 30px;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 30px;
+	}
+	.skills .process-title h1 {
+		font-size: 30px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 30px;
+	}
+	.team .team-title h1 {
+		font-size: 30px;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-230px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:360px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:12px;
+	}
+	.working-concept .fixed-padding p{
+		font-size:14px!important;
+	}
+}
+
+
+@media only screen and (min-width:401px) and (max-width:420px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:20px;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .images-btn{
+		width:370px!important;
+	}
+	.sec1th .secactive .btn{
+		padding:25px 30px!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 480px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:40px;
+	}
+	.sec1th .secactive .my-images p{
+		font-size:16px!important;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 310px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:350px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:370px!important;
+		line-height:16px!important;
+	}
+	.des{
+		width:340px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:890px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1650px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 370px!important;
+		font-size: 25px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 370px!important;
+		font-size: 25px!important;
+	}
+	.sec2nd .b-data-left h6{
+		font-size:14px!important;
+	}
+	.sec2nd .b-data-left .nm {
+		left: 35px;
+	}
+	.sec2nd .b-data-left .addr {
+		left: 22px;
+	}
+	.sec2nd .b-data-left .birth {
+		left: 42px;
+	}
+	.sec2nd .b-data-left .code {
+		left: 25px;
+	}
+	.sec2nd .b-data-left .phn {
+		left: 33px;
+	}
+	.sec2nd .b-data-left .email {
+		left: 39px;
+	}
+	.sec2nd .b-data-left .fb {
+		left: 13px;
+	}
+	.sec2nd .b-data-left .twi {
+		left: 30px;
+	}
+	.sec2nd .b-data-left .skype {
+		left: 37px;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1210px!important;
+	}
+	.intoduce-elementor .heading {
+		font-size: 25px;
+	}
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service{
+		width:100%!important;
+		height:1710px!important;
+	}
+	.skills {
+		width: 100%!important;
+		height: 1750px!important;
+	}
+	.portfolio {
+		width: 100%!important;
+		height: 2240px!important;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 25px;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 25px;
+	}
+	.skills .process-title h1 {
+		font-size: 25px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 25px;
+	}
+	.team .team-title h1 {
+		font-size: 25px;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-250px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:350px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:8px;
+	}
+	.working-concept .fixed-padding p{
+		font-size:11px!important;
+	}
+	.contact-padding {
+		padding-top: 65px;
+	}
+}
+@media only screen and (min-width:361px) and (max-width:400px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:18px;
+	}
+	.navbar-brand:before{
+		position:absolute!important;
+		top:4px!important;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .images-btn{
+		width:370px!important;
+	}
+	.sec1th .secactive .btn{
+		padding:25px 30px!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 450px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 450px!important;
+	}
+	.sec1th .secactive .container .row{
+		width: 100%!important;
+		height: 450px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 450px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:320px;
+		margin:0;
+		padding:0;
+		font-size:40px;
+	}
+	.sec1th .secactive .my-images p{
+		font-size:16px!important;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 313px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:325px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:320px!important;
+		line-height:16px!important;
+	}
+	.des{
+		width:315px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:915px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1650px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 265px!important;
+		font-size: 20px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 370px!important;
+		font-size: 20px!important;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1230px!important;
+	}
+	
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service{
+		width:100%!important;
+		height:1710px!important;
+	}
+	.skills {
+		width: 100%!important;
+		height: 1785px!important;
+	}
+	.portfolio {
+		width: 100%!important;
+		height: 2230px!important;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 25px;
+	}
+	.intoduce-elementor .heading {
+		font-size: 25px;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 25px;
+	}
+	.skills .process-title h1 {
+		font-size: 25px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 25px;
+	}
+	.team .team-title h1 {
+		font-size: 25px;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-255px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:305px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:26px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:8px;
+		letter-spacing:4px;
+	}
+	.working-concept .fixed-padding p{
+		font-size:11px!important;
+	}
+	.contact-padding {
+		padding-top: 60px;
+	}
+}
+@media only screen and (min-width:321px) and (max-width:360px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:40px;
+		width:20px;
+	}
+	.navbar-brand{
+		left:55px;
+		font-size:18px;
+	}
+	.navbar-brand:before{
+		position:absolute!important;
+		top:4px!important;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .images-btn{
+		width:270px!important;
+	}
+	.sec1th .secactive .btn{
+		padding:20px 20px!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .items{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .container .row{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		width: 100%!important;
+		height: 400px!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:250px;
+		margin:0;
+		padding:0;
+		font-size:35px;
+	}
+	.sec1th .secactive .my-images p{
+		font-size:12px!important;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+		font-size:12px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 250px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:10px!important;
+		width:300px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:10px!important;
+		width:300px!important;
+		line-height:16px!important;
+	}
+	.des{
+		width:300px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:905px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1580px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 265px!important;
+		font-size: 20px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 370px!important;
+		font-size: 20px!important;
+	}
+	.sec2nd .b-data-left h6{
+		font-size:14px!important;
+	}
+	.sec2nd .b-data-left .nm {
+		left: 35px;
+	}
+	.sec2nd .b-data-left .addr {
+		left: 22px;
+	}
+	.sec2nd .b-data-left .birth {
+		left: 42px;
+	}
+	.sec2nd .b-data-left .code {
+		left: 25px;
+	}
+	.sec2nd .b-data-left .phn {
+		left: 33px;
+	}
+	.sec2nd .b-data-left .email {
+		left: 39px;
+	}
+	.sec2nd .b-data-left .fb {
+		left: 13px;
+	}
+	.sec2nd .b-data-left .twi {
+		left: 30px;
+	}
+	.sec2nd .b-data-left .skype {
+		left: 37px;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1160px!important;
+	}
+	.intoduce-elementor .heading {
+		font-size: 20px;
+	}
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service{
+		width:100%!important;
+		height:1710px!important;
+		padding-top:180px!important;
+	}
+	.skills {
+		width: 100%!important;
+		height: 1630px!important;
+		padding-top: 180px!important;
+	}
+	.portfolio {
+		width: 100%!important;
+		height: 2105px!important;
+		padding-top: 180px!important;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 20px;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 20px;
+	}
+	.skills .process-title h1 {
+		font-size: 20px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 20px;
+	}
+	.team .team-title h1 {
+		font-size: 20px;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-260px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:295px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:20px!important;
+	}
+	.team .feedback-padding .elementor{
+		position:relative!important;
+		left:0;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:8px;
+		letter-spacing:4px;
+	}
+	.working-concept .fixed-padding p{
+		font-size:11px!important;
+	}
+	.contact-padding {
+		padding-top: 0px;
+	}
+}
+@media only screen and (min-width:240px) and (max-width:320px){
+	html{
+		overflow-x:hidden!important;
+	}
+	.nav-img img{
+		position:relative;
+		right:50px;
+		width:20px;
+	}
+	.navbar-brand{
+		left: 43px;
+		font-size: 14px;
+		top: 20px;
+	}
+	.navbar-brand:before{
+		position:absolute!important;
+		top:4px!important;
+	}
+	.sec1th{
+		background: url(../img/hero/myimg4.jpg)!important;
+	}
+	.sec1th .secactive .images-btn{
+		width:270px!important;
+	}
+	.sec1th .secactive .btn{
+		padding:20px 20px!important;
+	}
+	.sec1th .secactive {
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .items{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .container{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .container .row{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.secactive .main-sec-height{
+		width: 100%!important;
+		height: 400px!important;
+	}
+	.sec1th .secactive .my-images{
+		position:relative!important;
+		width: 100%!important;
+		height: 400px!important;
+		left:-15px!important;
+		z-index:5;
+	}
+	.sec1th .secactive .my-images h1{
+		position:relative;
+		padding-top:125px!important;
+		top:20px;
+		width:250px;
+		margin:0;
+		padding:0;
+		font-size:35px;
+	}
+	.sec1th .secactive .my-images p{
+		font-size:12px!important;
+	}
+	.sec1th .secactive .row{
+		padding-top:0!important;
+		width: 100%!important;
+		height: 480px!important;
+		margin:0;
+	}
+	.sec1th .secactive .my-images span{
+		position:relative!important;
+		top:135px!important;
+		font-size:12px!important;
+	}
+	.sec2nd .intoduce-area .images{
+		width: 100%;
+		padding-top: 255px!important;
+	}
+	.elementor-left .para1, .para2{
+		font-size:8px!important;
+		width:270px!important;
+	}
+	.sec2nd .elementor-right p{
+		font-size:8px!important;
+		width:270px!important;
+		line-height:16px!important;
+	}
+	.des{
+		width:260px!important;
+	}
+	.sec2nd .sec2nd-elementor{
+		padding-right:0;
+	}
+	.sec2nd .intoduce-section .intoduce-elementor{
+		height:845px!important;
+	}
+	.sec2nd {
+		width:100%!important;
+		height:1500px!important;
+		overflow:hidden;
+	}
+	.sec2nd .elementor-left h1{
+		width: 265px!important;
+		font-size: 18px!important;
+	}
+	.sec2nd .elementor-right h1{
+		width: 370px!important;
+		font-size: 18px!important;
+	}
+	.intoduce-area .intoduce-section {
+		width: 100%!important;
+		height: 1105px!important;
+	}
+	.intoduce-elementor .heading {
+		font-size: 20px;
+	}
+	.sec2nd .b-data-left h6{
+		font-size:10px!important;
+	}
+	.sec2nd .b-data-left .addr {
+		position: relative;
+		left: 21px;
+	}
+	.sec2nd .b-data-left .birth {
+		position: relative;
+		left: 36px;
+	}
+	.sec2nd .b-data-left .code {
+		position: relative;
+		left: 24px;
+	}
+	.sec2nd .b-data-left .phn {
+		position: relative;
+		left: 30px;
+	}
+	.sec2nd .b-data-left .email {
+		position: relative;
+		left: 35px;
+	}
+	.sec2nd .b-data-left .fb {
+		position: relative;
+		left: 16px;
+	}
+	.sec2nd .b-data-left .twi {
+		position: relative;
+		left: 28px;
+	}
+	.sec2nd .b-data-left .skype {
+		position: relative;
+		left: 33px;
+	}
+	.sec2nd .b-data-left h1{
+		font-size:2rem;
+	}
+	.service{
+		width:100%!important;
+		height:1710px!important;
+		padding-top:180px!important;
+	}
+	.skills {
+		width: 100%!important;
+		height: 1650px!important;
+		padding-top: 180px!important;
+	}
+	.portfolio {
+		width: 100%!important;
+		height: 2110px!important;
+		padding-top: 180px!important;
+	}
+	.service-title .get-service-title h1 {
+		font-size: 20px;
+	}
+	.skills .get-skills-title h1 {
+		font-size: 20px;
+	}
+	.skills .process-title h1 {
+		font-size: 20px;
+	}
+	.portfolio .portfolio-title h1 {
+		font-size: 20px;
+	}
+	.team .team-title h1 {
+		font-size: 20px;
+	}
+	.contact {
+		padding-top: 110px;
+		padding-bottom: 100px;
+	}
+	.contact-padding {
+		padding-top: 0!important;
+	}
+	.nav-btn{
+		visibility:hidden;
+	}
+	.nav-links{
+		position: absolute!important;
+		width:50%!important;
+		left: 58%!important;
+		top:0!important;
+		height:100vh!important;
+		background: #fff!important;
+		flex-direction: column!important;
+		transform: translateX(100%)!important;
+		opacity: 0;
+		margin:0!important;
+		padding:340px!important;
+		-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+		-webkit-transition: 1s all ease;
+		-o-transition: 1s all ease;
+		transition: 1s all ease;
+	}
+	.nav-links li{
+		position:relative;
+		bottom:150px;
+		left:-270px!important;
+		opacity: 0;
+	}
+	.nav-burger{
+		display: block!important;
+		left:260px;
+	}
+	.nav-active{
+		transform: translateX(0%)!important;
+		transition: 0.7s ease-in;
+		opacity: 1;
+	}
+	.sec1th .return-top .return-top-icon{
+		width:25px!important;
+		height:25px!important;
+		right:0px;
+	}
+	.sec1th .return-top .return-top-icon i {
+		position: relative;
+		font-size: 10px;
+		top: -2px;
+		left: 9px;
+		color: #fff;
+	}
+	.skills .working-padding .working-concept-title h2{
+		font-size:20px!important;
+	}
+	
+	.team .feedback-elementor{
+		position:absolute!important;
+		margin:0!important;
+		width:320px!important;
+	}
+	.team .feedback-padding .ele1{
+		position:relative!important;
+		left:-120px!important;
+		height:400px!important;
+	}
+	.team .feedback-padding .ele2{
+		position:relative!important;
+		left:-160px!important;
+		height:400px!important;
+	}
+	.team .feedback-padding .ele3{
+		position:relative!important;
+		left:-200px!important;
+		height:400px!important;
+	}
+	.team .feedback-padding .ele4{
+		position:relative!important;
+		left:-240px!important;
+		height:400px!important;
+	}
+	.team .feedback-padding .ele5{
+		position:relative!important;
+		left:-280px!important;
+		height:400px!important;
+	}
+	.team .feedback-padding .ele6{
+		position:relative!important;
+		left:-320px!important;
+		height:400px!important;
+	}
+	.portfolio .portfolio-site{
+		width:100%!important;
+		height:1680px!important;
+	}
+	.justify-content-between{
+		position:relative!important;
+		padding:2px;
+	}
+	.footer-copy-right p{
+		font-size:8px;
+		letter-spacing:3px;
+	}
+	.working-concept .fixed-padding p{
+		font-size:11px!important;
+	}
+}
