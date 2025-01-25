@@ -20,6 +20,7 @@ body {
     z-index: 18;
     box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
     animation: animates 1s linear forwards;
+    transition: all ease-in 5s;
 }
 @keyframes animates {
     0% {
@@ -123,7 +124,7 @@ body {
 .btn:hover::before {
     transform: scaleX(1);
 }
-.nav-button: .nav-button:hover .nav-button:before {
+.nav-button .nav-button:hover .nav-button:before {
     width: 100%;
     height: 100%;
     left: 0;
@@ -222,7 +223,6 @@ body {
     display: inline-block;
     font-size: 14px;
     border-radius: 5px;
-    -moz-user-select: none;
     font-weight: 500;
     letter-spacing: 1px;
     line-height: 0;
@@ -800,7 +800,6 @@ a {
     top: 50px;
     width: 100%;
     height: 700px;
-    //background:powderblue;
 }
 .portfolio .portfolio-site .portfolio-padding {
     width: 100%;
@@ -845,7 +844,6 @@ a {
 .team {
     width: 100%;
     height: 600px;
-    //background:red;
 }
 .team .team-title h1 {
     position: relative;
@@ -855,8 +853,6 @@ a {
     text-align: center;
     font-family: 'ZCOOL XiaoWei', serif;
 }
-.team .team-feedback-site {}
-
 .team .feedback-padding {
     position: relative;
     width: 100%;
@@ -909,7 +905,6 @@ a {
 .slider {
     width: 100%;
     height: 600px;
-    //background:powderblue;
 }
 .contact {
     width: 100%;
@@ -933,7 +928,6 @@ a {
 	position:relative;
 	width:100%;
 	height:450px;
-	//background:red;
 }
 .form-group input{
 	width:100%;
